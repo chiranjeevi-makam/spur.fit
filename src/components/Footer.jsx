@@ -20,9 +20,9 @@ const Footer = () => {
           height={150}
         />
       </div>
-      <div className="text-center text-sm text-gray-500">
-        &copy; Ahead App. All rights reserved.
-      </div>
+      //<div className="text-center text-sm text-gray-500">
+      //  &copy; Ahead App. All rights reserved.
+      //</div>
     </footer>
   );
 };
