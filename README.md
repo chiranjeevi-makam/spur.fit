@@ -7,7 +7,7 @@ This is a dribble design, converted to a React js 18.2.0 app.
 Clone the project
 
 ```bash
-  git clone https://github.com/Ajaydeep123/Ahead-app-ui.git
+  
 ```
 
 Go to the project directory
@@ -30,5 +30,3 @@ Start the server
 
 
 ## Demo
-
-Link to project : https://ahead-app-ui.vercel.app/
