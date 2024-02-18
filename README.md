@@ -63,3 +63,44 @@ Start the server
 
 1. **Code Review**: Review your code for cleanliness and organization. Use proper naming conventions and keep your code DRY (Don't Repeat Yourself).
 2. **Optimization**: Optimize for performance. Ensure images are optimized, and the website loads efficiently.
+### Step 6: Version Control and Deployment
+
+1. **Git Repository**: Initialize a git repository and make regular commits with meaningful messages.
+    
+    ```bash
+    git init
+    git add .
+    git commit -m "Initial commit"
+    
+    ```
+    
+2. **GitHub**: Create a repository on GitHub and push your local repository.
+3. **Deployment**: Choose a platform like Netlify or Vercel for deployment. Follow their documentation to deploy your React app.
+4. **[README.md](http://readme.md/)**: Write a comprehensive [README.md](http://readme.md/) explaining your project, setup instructions, and any other relevant information.
+
+### Step 7: Submission
+
+- Submit your GitHub repository link.
+- Ensure the live website link is included in your GitHub repository, preferably in the [README.md](http://readme.md/). 
+- **Refer to the below examples to add animations using GSAP:**
+    1. https://bitworking.github.io/react-gsap/src-components-scroll-trigger
+    2. https://stackblitz.com/edit/react-gsap-scroll-trigger?file=index.tsx
+    3. https://codepen.io/GreenSock/pen/abyVpNN
+    4. https://codepen.io/GreenSock/pen/gOzxzqv
+    5. https://codepen.io/dev_loop/pen/zYvmRvq 
+
+**Sourcing assets like images and data for your project is a key step, especially when they're not provided. Here are some resources where you can find high-quality, free-to-use assets:**
+
+- Images and Graphics
+    1. **Pexels ([pexels.com](https://www.pexels.com/))**: Another great resource for free stock photos and videos, contributed by talented creators.
+    2. **Freepik ([freepik.com](https://www.freepik.com/))**: A platform for free vectors, stock photos, PSDs, and icons.
+- Data for Prototyping
+    1. **Mockaroo ([mockaroo.com](https://www.mockaroo.com/))**: A useful tool for generating custom mock data in various formats, helpful for simulating real data in your project.
+    2. **JSONPlaceholder ([jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com/))**: A free online REST API that you can use to fetch fake data for testing and prototyping.
+- Fonts
+    1. **Google Fonts ([fonts.google.com](https://fonts.google.com/))**: Offers a wide array of free and easy-to-embed fonts.
+- Icons
+    1. **FontAwesome ([fontawesome.com](https://fontawesome.com/))**: A popular icon set and toolkit with free and paid options.
+    2. **Ionicons ([ionicons.com](https://ionicons.com/))**: Open-sourced icons crafted for web, iOS, Android, and desktop apps.
+- UI Design Inspiration
+    1. **Dribbble ([dribbble.com](https://dribbble.com/))**: A community of designers sharing screenshots of their work, process, and projects.
