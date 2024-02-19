@@ -55,7 +55,7 @@ const WorkWithUs = () => {
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Accusamus fugit ipsum voluptate deserunt, non velit a
                   blanditiis officia dolor eligendi eveniet cumque quasi
-                  reprehenderit minus?
+                  reprehenderit minus.
                 </p>
               </div>
 

@@ -82,7 +82,7 @@ const SelfImprovement = () => {
                   <p className="text-xl font-bold">It&apos;s not easy as 1-2-3</p>
                   <p className="mt-3">
                     The journey may be long but our sessions are quick. We get
-                    to the point and tell you what you want to know (and nothing
+                    to the point and tell you, what you want to know (and nothing
                     else).
                   </p>
                 </motion.div>
