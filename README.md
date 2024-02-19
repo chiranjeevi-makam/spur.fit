@@ -54,16 +54,16 @@ Start the server
     
 2. **Implement Animations**: Add basic animations like fading in content, animating elements on scroll, etc. Start simple and gradually add more complexity.
 
-### Step 4: Refining UI and UX
+### Refining UI and UX
 
 1. **Responsive Design**: Ensure your website is responsive. Test on different screen sizes and make adjustments as needed.
 2. **User Experience**: Pay attention to the user journey. The UI should be intuitive and engaging.
 
-### Step 5: Code Quality and Best Practices
+### Code Quality and Best Practices
 
 1. **Code Review**: Review your code for cleanliness and organization. Use proper naming conventions and keep your code DRY (Don't Repeat Yourself).
 2. **Optimization**: Optimize for performance. Ensure images are optimized, and the website loads efficiently.
-### Step 6: Version Control and Deployment
+### Version Control and Deployment
 
 1. **Git Repository**: Initialize a git repository and make regular commits with meaningful messages.
     
@@ -78,7 +78,7 @@ Start the server
 3. **Deployment**: Choose a platform like Netlify or Vercel for deployment. Follow their documentation to deploy your React app.
 4. **[README.md](http://readme.md/)**: Write a comprehensive [README.md](http://readme.md/) explaining your project, setup instructions, and any other relevant information.
 
-### Step 7: Submission
+### Submission
 
 - Submit your GitHub repository link.
 - Ensure the live website link is included in your GitHub repository, preferably in the [README.md](http://readme.md/). 
