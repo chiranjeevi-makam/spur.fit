@@ -1,7 +1,7 @@
 
 # Dribble design
 
-This is a dribble design, converted to a React js 18.2.0 app.  
+This is a dribble design, Developed by React Technology.  
 
 ## Run Locally 
 
