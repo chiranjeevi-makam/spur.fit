@@ -29,10 +29,10 @@ const MeetAheadCard = () => {
               </p>
             </div>
             <div>
-              <p  className="text-lg">
-                Think of it as a pocket cheerleader towards a better, more
-                fulfilling.
-              </p>
+              //<p  className="text-lg">
+              //  Think of it as a pocket cheerleader towards a better, more
+              //  fulfilling.
+              //</p>
             </div>
           </div>
         </div>

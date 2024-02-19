@@ -34,10 +34,10 @@ const EverWonder = () => {
                 <img width={50} height={50} alt="" src="/badge.png" />
               </div>
             </div>
-            <div className="text-center">
-              Answer questions on <br />
-              your skill.
-            </div>
+            //<div className="text-center">
+            //  Answer questions on <br />
+            //  your skill.
+           //</div>
           </div>
 
           <div className="flex flex-col justify-center">
