@@ -1,8 +1,7 @@
 
 import React from "react";
-import Fade from 'react-awesome-reveal';
-import { useAnimation, motion } from "framer-motion";
-import { useInView } from "react-intersection-observer";
+import {motion} from "framer-motion";
+
 import Reveal from "react-awesome-reveal";
 import { keyframes } from "@emotion/react";
 
